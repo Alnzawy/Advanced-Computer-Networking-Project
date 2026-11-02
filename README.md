@@ -140,25 +140,7 @@ The following screenshots demonstrate routing verification across the different 
 ## Team Collaboration
 
 This project was completed as a collaborative academic group project.
-
-**Team Members:**
-
-- Jawad Alahmadi
-- Abdullah Mohammed Aljuhani
-- Abdulrahman Abdulaziz Alnzawy
-
 The project involved configuring network devices, implementing routing protocols, establishing network connectivity, and verifying communication across the different network segments.
 
-## Course Information
 
-| Field | Details |
-|---|---|
-| Project | Lab Final Project |
-| Course Code | CIT 3502 |
-| Course Name | Advanced Computer Networking |
-| Institution | Islamic University of Madinah |
-| Semester | First Semester, 2024–2025 |
-| Routing Protocols | OSPF, EIGRP, RIP |
-| WAN Technology | Frame Relay |
-| Network Simulation | Cisco Packet Tracer |
 
